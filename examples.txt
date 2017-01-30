@@ -1,0 +1,4 @@
+- https://github.com/Polymer/polycasts/tree/master/ep46-carbon-route/blog
+- https://www.polymer-project.org/1.0/blog/routing
+- https://www.webcomponents.org/element/PolymerElements/app-route
+- https://youtu.be/xRONodYEF2A?list=PLNYkxOF6rcIDdS7HWIC_BYRunV6MHs5xo
